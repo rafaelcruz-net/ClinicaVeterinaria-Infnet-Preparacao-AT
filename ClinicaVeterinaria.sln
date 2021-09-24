@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicaVeterinaria", "ClinicaVeterinaria\ClinicaVeterinaria.csproj", "{914A0644-F3D5-4DBA-8647-14447CDF387B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClinicaVeterinaria", "ClinicaVeterinaria\ClinicaVeterinaria.csproj", "{914A0644-F3D5-4DBA-8647-14447CDF387B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{7064C93E-70CB-48DA-BC77-0B498E94894F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{7064C93E-70CB-48DA-BC77-0B498E94894F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClinica", "WebClinica\WebClinica.csproj", "{6B4A14DF-E5A3-4E86-965E-EFC56BFCDBB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7064C93E-70CB-48DA-BC77-0B498E94894F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7064C93E-70CB-48DA-BC77-0B498E94894F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7064C93E-70CB-48DA-BC77-0B498E94894F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4A14DF-E5A3-4E86-965E-EFC56BFCDBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4A14DF-E5A3-4E86-965E-EFC56BFCDBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4A14DF-E5A3-4E86-965E-EFC56BFCDBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4A14DF-E5A3-4E86-965E-EFC56BFCDBB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
